@@ -14,7 +14,6 @@ Este proyecto es una aplicación de gestión de usuarios que permite a los usuar
 
 ## Enlaces
 - **Frontend:** [http://localhost:3000](http://localhost:3000)
-- **API:** [http://localhost:5000](http://localhost:5000)
 
 ## Requerimientos
 - Node.js
