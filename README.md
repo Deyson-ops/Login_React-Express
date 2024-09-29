@@ -7,14 +7,14 @@ Este proyecto es una aplicación de gestión de usuarios que permite a los usuar
 - Deyson Vinicio Donado López
   - Carnet: 9490-21-5197
 
-## Enlaces
-- **Frontend:** [http://localhost:3000](http://localhost:3000) (o la URL desplegada si es aplicable)
-- **API:** [http://localhost:5000](http://localhost:5000) (o la URL desplegada en Render)
-
 ## Instrucciones
 1. Clonar el repositorio.
 2. Navegar a la carpeta `backend` y ejecutar `npm install` y luego `node server.js` para iniciar el servidor.
 3. Luego, navegar a la carpeta `frontend` y ejecutar `npm install` y después `npm start` para iniciar la aplicación frontend.
+
+## Enlaces
+- **Frontend:** [http://localhost:3000](http://localhost:3000)
+- **API:** [http://localhost:5000](http://localhost:5000)
 
 ## Requerimientos
 - Node.js
