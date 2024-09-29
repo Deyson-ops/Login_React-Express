@@ -9,6 +9,8 @@ Este proyecto es una aplicación de gestión de usuarios que permite a los usuar
 
 ## Instrucciones
 1. Clonar el repositorio.
+```bash
+git clone https://github.com/Deyson-ops/Login_React-Express.git 
 2. Navegar a la carpeta `backend` y ejecutar `npm install` y luego `node server.js` para iniciar el servidor.
 3. Luego, navegar a la carpeta `frontend` y ejecutar `npm install` y después `npm start` para iniciar la aplicación frontend.
 
@@ -39,5 +41,4 @@ Este proyecto es una aplicación de gestión de usuarios que permite a los usuar
 
 ## Enlaces
 - **Frontend:** [http://localhost:3000](http://localhost:3000)
-```bash
-git clone https://github.com/Deyson-ops/Login_React-Express.git
+
